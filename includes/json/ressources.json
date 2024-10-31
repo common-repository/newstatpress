@@ -1,0 +1,14 @@
+{
+   "ressources":[
+      {
+        "ref": "Pikaday",
+        "description": "JavaScript Datepicker",
+        "website": "https://github.com/dbushell/Pikaday"
+      },
+      {
+        "ref": "Moment.js",
+        "description": "Parse, validate, manipulate, and display dates in JavaScript.",
+        "website": "http://momentjs.com/"
+      }
+   ]
+}
